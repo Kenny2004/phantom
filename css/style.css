@@ -1,0 +1,51 @@
+.wrapper{
+    width: 1100px;
+    margin: auto;
+    padding: 10px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.search{
+    display: flex;
+    margin: auto 0;
+
+}
+.soc>div{
+    padding: 10px;
+}
+.soc{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.number{
+    margin: auto 0;
+    display: flex;
+}
+.card{
+    margin: auto 0;
+}
+.logo{
+    margin: auto 0;
+}
+.num_a{
+    text-decoration: none;
+    color: #000;
+    margin: auto;
+    font-size: 18px;
+    display: flex;
+}
+.num_n{
+    margin: auto;
+}
+.body__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.body__wrapper img {
+    width: 100%;
+}
